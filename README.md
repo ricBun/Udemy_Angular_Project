@@ -1,6 +1,7 @@
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+It is a small app developed with varying features that Angular has to offer. Including NgRx, Authentication, Routing, and using Firebase APIs.
 
 ## Development server
 
